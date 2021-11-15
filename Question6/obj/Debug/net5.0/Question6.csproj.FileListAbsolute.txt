@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\Question6.exe
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\Question6.deps.json
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\Question6.runtimeconfig.json
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\Question6.runtimeconfig.dev.json
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\Question6.dll
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\ref\Question6.dll
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\bin\Debug\net5.0\Question6.pdb
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.AssemblyInfo.cs
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.dll
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\ref\Question6.dll
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.pdb
+C:\Users\user\Desktop\Chapter5_ConditionalStatements\Question6\obj\Debug\net5.0\Question6.genruntimeconfig.cache
